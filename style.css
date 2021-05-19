@@ -1,7 +1,15 @@
+.bg{
+    background: rgb(10, 10, 10);
+}
+
 .header{
     text-align: center;
+    color: white;
+    border-bottom: white 1px solid;
 }
 
 .para{
     text-align: justify;
+    color: green;
+    font-size: 25px;
 }
